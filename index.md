@@ -1,66 +1,92 @@
 # My Personal Bio
 
 ## About Me
-Hello! My name is Terrance Mubure. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
+Hello! My name is **Terrance Mubure**, and I am a passionate software developer currently participating in the **Africa Code Academy Engineering Residency Program 2025**. I'm driven by the transformative power of technology and the opportunity to create meaningful solutions that improve people's lives.
 
 ## Background
-- **Name:** Terrance Takudzwa Mubure
-- **Location:** Botswana, Gaborone
-- **Education:** Bsc (Hons) Information Communication Technology
-- **Skills:** Programming, Database Design and Computer Networking
+- **Full Name:** Terrance Takudzwa Mubure
+- **Location:** Gaborone, Botswana
+- **Education:** BSc (Hons) Information Communication Technology
+- **Core Expertise:** Full-Stack Development, Database Design, Computer Networking
 
 ## Journey
 ### Early Life
-What began as a simple curiosity about computers and mobile apps has evolved into a strong passion for software development. It still amazes me that in high school, I studied business subjects with the dream of becoming an accountant, yet today I find myself in the world of technology at university. Here, I am exploring the immense potential of programming and creating impactful solutions. My curiosity and inspiration are challenged daily, and I couldn't be more driven and fulfilled.
+What began as simple curiosity about computers and mobile apps has evolved into a deep passion for software development. Interestingly, I started high school studying business subjects with dreams of becoming an accountant, yet today I find myself immersed in the world of technology. This unexpected path has led me to discover my true calling in programming and creating impactful solutions.
 
-The process of building, learning, and optimizing excites me, and I am always looking to deepen my understanding of new technological concepts.
+The process of building, learning, and optimizing code excites me every day. My curiosity and inspiration are challenged daily, and I couldn't be more driven and fulfilled by this journey. I am constantly seeking to deepen my understanding of emerging technological concepts and industry best practices.
 
-### Education and Career
-Currently am studying Bsc (Hons) Information Communication Technology at Botswana Accountancy College (BAC), this is where i was introduced to programming in C#, Database Management tools like Oracle and Microsoft SQL server and Computer Networking courses. During the curse of my studying i have also manage to complete online course such as:
-- CISCO netacad **CCNA Level 1 Certificate**
-- CISCO netacad **CISM IT Fundamentals Certificate**
-- FreeCodeCamp **Foundamental C# with Microsoft**
-- SkillForAll **JavaScript Essentials 1**
+### Education & Professional Development
+I am currently pursuing a **BSc (Hons) Information Communication Technology** at **Botswana Accountancy College (BAC)**, where I was first introduced to programming in C#, database management with Oracle and Microsoft SQL Server, and comprehensive computer networking courses.
+
+**Certifications & Continuous Learning:**
+Throughout my studies, I have completed several specialized courses to enhance my technical skills:
+
+- **CISCO NetAcad** - CCNA Level 1 Certificate
+- **CISCO NetAcad** - CISM IT Fundamentals Certificate
+- **FreeCodeCamp** - Fundamental C# with Microsoft
+- **SkillForAll** - JavaScript Essentials 1
 
 ### Goals
-- To sharpen both my technical and problem-solving skills so I can become a well-rounded, job-ready software developer.
-- I want to build apps that are not just functional, but meaningful—tools that improve everyday life for users in Botswana and beyond.
-- I hope to grow in person both as a developer and an individual through gaining soft skills such as good communication and collaboration.
-- In the short term, I’m focused on completing the Africa Code Accadeny Residency Program where I hope to master full-stack development using tools industry grade tools, while improving my UI/UX design thinking, debugging techniques, and code optimization.
-- I also want to collaborate with peers on real-world projects to grow my teamwork and communication skills.
+**Short-term Objectives:**
+- Complete the Africa Code Academy Residency Program with mastery of full-stack development using industry-grade tools
+- Enhance UI/UX design thinking, debugging techniques, and code optimization skills
+- Collaborate with peers on real-world projects to develop teamwork and communication abilities
+
+**Long-term Vision:**
+- Become a well-rounded, job-ready software developer with strong technical and problem-solving skills
+- Build applications that are not just functional, but meaningful—tools that improve everyday life for users in Botswana and beyond
+- Grow personally as both a developer and individual through developing soft skills such as effective communication and collaboration
+- Contribute to the tech ecosystem in Botswana and mentor other aspiring developers
 
 
 ## Projects
 ### Project 1 : Spotify Album Search App
 A modern, responsive web application that enables users to search for music albums using the Spotify Web API. Built with React and TypeScript, featuring a sleek dark theme and real-time search functionality.
 
+**Key Features:**
+- Real-time album search with Spotify Web API integration
+- Responsive design with modern dark theme
+- TypeScript for enhanced type safety and developer experience
+- Optimized performance with modern React patterns
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-album--searcher--app.vercel.app-blue?style=for-the-badge)](https://album-searcher-app.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/mubureterrance/album-searcher_app)
 
-#### Tech Stack
-
+**Tech Stack:**
 - **Frontend Framework:** React 18 with TypeScript
 - **UI Library:** React-Bootstrap
 - **Build Tool:** Vite
 - **API:** Spotify Web API (Client Credentials Flow)
 - **Deployment:** Vercel
 - **Package Manager:** npm
+- 
+### Project 2: Interactive Quiz Application
+A modern, interactive quiz application built with React and TypeScript featuring persistent progress tracking, performance analytics, and responsive design. This project was developed as part of the Africa Code Academy Engineering Residency program.
 
-### Project 2 : Quiz App
-A modern, interactive quiz application built with React and TypeScript featuring persistent progress tracking, performance analytics, and a responsive design. This project was part of the Africa Code Academy Engineering Residency program.
+**Key Features:**
+- Interactive quiz interface with dynamic question handling
+- Progress tracking and comprehensive performance analytics
+- Local storage for data persistence across sessions
+- Fully responsive design for optimal mobile and desktop experience
+- Real-time feedback and intelligent scoring system
 
-### Technology Stack
-
-- **Frontend**: React 18+ with TypeScript
-- **Styling**: Custom CSS with CSS Grid/Flexbox
-- **State Management**: React Hooks (useState, custom hooks)
-- **Data Persistence**: LocalStorage
-- **Build Tool**: Vite/Create React App (based on your setup)
+**Technology Stack:**
+- **Frontend:** React 18+ with TypeScript
+- **Styling:** Custom CSS with CSS Grid/Flexbox
+- **State Management:** React Hooks (useState, custom hooks)
+- **Data Persistence:** LocalStorage
+- **Build Tool:** Vite
 
 ## Contact
-- **Email:** [mubureterrance@gmail.com]
+Feel free to reach out for collaboration opportunities, project discussions, or professional networking.
+
+- **Email:** [mubureterrance@gmail.com](mailto:mubureterrance@gmail.com)
 - **LinkedIn:** [Terrance Mubure](https://www.linkedin.com/in/terrance-mubure-90662370/)
-- **GitHub:** [Terrance Mubure](https://github.com/mubureterrance)
+- **GitHub:** [mubureterrance](https://github.com/mubureterrance)
+- **Location:** 📍 Gaborone, Botswana
+---
+
+*I'm always open to discussing new opportunities, collaborating on interesting projects, or connecting with fellow developers. Don't hesitate to reach out!*
 
 ---
 
@@ -68,9 +94,8 @@ A modern, interactive quiz application built with React and TypeScript featuring
 
 ## Sections
 
-- [About Me](about.md)
-- [Skills](skills.md)
-- [Projects](projects/index.md)
-- [Contact](contact.md)
+- **[About Me](about.md)** - Personal story, background, and journey
+- **[Skills](skills.md)** - Technical skills, certifications, and competencies
+- **[Projects](projects/index.md)** - Detailed project showcases and portfolio
+- **[Contact](contact.md)** - Contact information and social links
 
-This is the main landing page for your profile. Customize it to introduce yourself and provide links to other sections.
