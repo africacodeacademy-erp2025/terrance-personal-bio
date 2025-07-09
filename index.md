@@ -7,7 +7,7 @@ Hello! My name is Terrance Mubure. I am a participant in the Africa Code Academy
 - **Name:** Terrance Takudzwa Mubure
 - **Location:** Botswana, Gaborone
 - **Education:** Bsc (Hons) Information Communication Technology
-- **Skills:** Programming, Database Design
+- **Skills:** Programming, Database Design and Computer Networking
 
 ## Journey
 ### Early Life
