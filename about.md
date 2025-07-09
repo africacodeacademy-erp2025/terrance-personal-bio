@@ -15,8 +15,12 @@ The process of building, learning, and optimizing excites me, and I am always lo
 
 ## Education
 
-List your educational background and any relevant courses or degrees.
-
+Currently am studying Bsc (Hons) Information Communication Technology at Botswana Accountancy College (BAC), this is where i was introduced to programming in C#, Database Management tools like Oracle and Microsoft SQL server and Computer Networking courses. During the curse of my studying i have also manage to complete online course such as:
+- CISCO netacad **CCNA Level 1 Certificate**
+- CISCO netacad **CISM IT Fundamentals Certificate**
+- FreeCodeCamp **Foundamental C# with Microsoft**
+- SkillForAll **JavaScript Essentials 1**
+  
 ## Professional Experience
 
 Detail your professional experience and any notable achievements.
