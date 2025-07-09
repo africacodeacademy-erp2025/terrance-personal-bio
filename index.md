@@ -59,7 +59,7 @@ A modern, responsive web application that enables users to search for music albu
 - **API:** Spotify Web API (Client Credentials Flow)
 - **Deployment:** Vercel
 - **Package Manager:** npm
-- 
+
 ### Project 2: Interactive Quiz Application
 A modern, interactive quiz application built with React and TypeScript featuring persistent progress tracking, performance analytics, and responsive design. This project was developed as part of the Africa Code Academy Engineering Residency program.
 
@@ -83,7 +83,7 @@ Feel free to reach out for collaboration opportunities, project discussions, or 
 - **Email:** [mubureterrance@gmail.com](mailto:mubureterrance@gmail.com)
 - **LinkedIn:** [Terrance Mubure](https://www.linkedin.com/in/terrance-mubure-90662370/)
 - **GitHub:** [mubureterrance](https://github.com/mubureterrance)
-- **Location:** 📍 Gaborone, Botswana
+- **Location:** Gaborone, Botswana
 ---
 
 *I'm always open to discussing new opportunities, collaborating on interesting projects, or connecting with fellow developers. Don't hesitate to reach out!*
