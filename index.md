@@ -71,7 +71,7 @@ A modern, interactive quiz application built with React and TypeScript featuring
 - Fully responsive design for optimal mobile and desktop experience
 - Real-time feedback and intelligent scoring system
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Quiz%20App-green?style=for-the-badge)](https://mubureterrance.github.io/aca-erp2022-2-Quiz/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Quiz%20App-green?style=for-the-badge)](https://aca-erp2022-2-quiz-rho.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/mubureterrance/aca-erp2022-2-Quiz)
 
 **Technology Stack:**
