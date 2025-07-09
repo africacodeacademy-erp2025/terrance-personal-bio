@@ -1,15 +1,20 @@
 # Contact
 
-Provide your contact information here. You can include your email, LinkedIn profile, or any other ways to reach you.
+Feel free to reach out for collaboration opportunities, project discussions, or professional inquiries.
 
 ## Email
 
-<your.email@example.com>
+- **Personal**: [mubureterrance@gmail.com](mailto:mubureterrance@gmail.com)
+- **Professional**: [terrance.mubure@africacode.academy](mailto:terrance.mubure@africacode.academy)
 
-## LinkedIn
+## Professional Profiles
 
-[LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [Terrance Mubure](https://www.linkedin.com/in/terrance-mubure-90662370/)
+- **GitHub**: [mubureterrance](https://github.com/mubureterrance)
 
-## GitHub
+## Location
+Gaborone, Botswana
 
-[GitHub Profile](https://github.com/yourusername)
+---
+
+*I'm always open to discussing new opportunities, collaborating on interesting projects, or connecting with fellow developers. Don't hesitate to reach out!*
