@@ -1,4 +1,4 @@
-# My Personal Bio
+# Terrance Mubure - Software Developer
 
 ## About Me
 Hello! My name is **Terrance Mubure**, and I am a passionate software developer currently participating in the **Africa Code Academy Engineering Residency Program 2025**. I'm driven by the transformative power of technology and the opportunity to create meaningful solutions that improve people's lives.
