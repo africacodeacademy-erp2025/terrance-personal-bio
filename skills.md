@@ -1,21 +1,26 @@
 # Skills
 
-List your skills here. You can categorize them and provide examples of how you've used each skill.
-
 ## Programming Languages
 
-- Language 1
-- Language 2
-- Language 3
+- **JavaScript** - Built interactive web applications and handled DOM manipulation
+- **TypeScript** - Developed type-safe applications with enhanced IDE support and error prevention
+- **C#** - Created desktop applications and web APIs using .NET framework
+- **Python** - Implemented data analysis scripts, automation tools, and backend services
+- **SQL** - Designed database schemas, wrote complex queries, and optimized database performance
 
 ## Frameworks and Libraries
 
-- Framework/Library 1
-- Framework/Library 2
-- Framework/Library 3
+- **.NET / ASP.NET Core** - Developed scalable web APIs and MVC applications with authentication and authorization
+- **React** - Built responsive single-page applications with component-based architecture and state management
+- **Entity Framework Core** - Implemented data access layer with code-first approach and migrations
 
 ## Tools and Technologies
 
-- Tool/Technology 1
-- Tool/Technology 2
-- Tool/Technology 3
+- **Git/GitHub** - Version control, branching strategies, and collaborative development workflows
+- **Postman** - API testing, documentation, and automated testing workflows
+- **Visual Studio/VS Code** - Primary development environments with extensions and debugging tools
+
+  ## Databases
+- **SQL Server** - Relational database design, stored procedures, and performance tuning
+- **PostgreSQL** - Open-source database management and advanced querying
+- **Firebase** - NoSQL document database for flexible data structures
