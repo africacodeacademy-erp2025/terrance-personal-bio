@@ -60,6 +60,7 @@ A modern, responsive web application that enables users to search for music albu
 - **Deployment:** Vercel
 - **Package Manager:** npm
 
+
 ### Project 2: Interactive Quiz Application
 A modern, interactive quiz application built with React and TypeScript featuring persistent progress tracking, performance analytics, and responsive design. This project was developed as part of the Africa Code Academy Engineering Residency program.
 
